@@ -53,7 +53,7 @@ function Ingressos() {
         </Table>
       </TableContainer>
       <h1></h1>
-      <Button fullWidth variant="contained" component={Link} to="/home">
+      <Button fullWidth variant="contained" component={Link} to="/">
         Voltar para Home
       </Button>
     </div>

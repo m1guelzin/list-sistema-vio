@@ -71,7 +71,7 @@ function Eventos() {
       fullWidth
       variant="contained"
       component={Link}
-      to="/home">
+      to="/">
         Voltar para Home
       </Button>
     </div>
